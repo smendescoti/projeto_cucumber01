@@ -1,0 +1,55 @@
+# Arquivos de compilação e diretórios de saída
+target/
+bin/
+build/
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Arquivos de configuração do NetBeans
+nbproject/
+build/
+
+# Arquivos de configuração do Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Logs do Maven
+mvnDebug.log
+mvn.log
+
+# Diretório de cache do Maven
+/.m2/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de captura de tela
+*.png
+*.jpg
+
+# Arquivos de documentos
+*.pdf
+
+# Arquivos gerados pelo IDE
+target/
+.idea/
+*.iml
